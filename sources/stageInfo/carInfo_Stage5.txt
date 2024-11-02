@@ -1,0 +1,15 @@
+12
+horizontal short 0 1 3
+horizontal long 1 1 1
+straight short 3 4 1
+straight long 0 5 1
+straight short 4 1 4
+horizontal short 1 2 4
+horizontal short 4 4 4
+horizontal short 3 2 5
+horizontal long 0 1 6
+straight short 5 4 5
+straight short 2 6 3
+straight short 1 6 5
+1
+frog 7

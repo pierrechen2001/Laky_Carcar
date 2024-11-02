@@ -1,0 +1,12 @@
+10
+horizontal short 0 2 3 
+straight short 3 1 1
+horizontal long 0 2 1
+horizontal short 2 5 1
+horizontal long 1 2 2
+straight short 4 6 2
+straight long 1 1 4
+straight short 2 2 5
+straight short 1 5 4
+straight short 5 6 5
+

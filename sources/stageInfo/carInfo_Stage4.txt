@@ -1,0 +1,13 @@
+10
+horizontal short 0 2 3
+straight long 1 1 1
+straight short 4 2 1
+horizontal long 1 4 1
+horizontal short 2 3 2
+straight short 3 5 2
+horizontal short 5 2 4
+straight long 0 6 3
+horizontal long 0 1 6
+horizontal short 4 4 6
+1
+lake 4 4

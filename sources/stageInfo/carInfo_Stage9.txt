@@ -1,0 +1,14 @@
+11
+horizontal short 0 2 3
+straight short 1 1 2
+straight long 1 5 3
+straight short 5 3 1
+straight short 2 4 2
+horizontal short 5 1 4
+horizontal short 4 3 4
+horizontal short 3 5 1
+straight short 3 2 5
+horizontal long 0 3 6
+straight long 0 6 4
+1
+turtle 46
