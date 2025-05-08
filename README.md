@@ -58,3 +58,4 @@ A puzzle game built with C++ and SFML, inspired by the classic "Get Out the Park
 ---
 
 > 💬 *A class project with big ambitions — fun, logic, and teamwork collide at Laky Carcar.*
+> https://deepwiki.com/pierrechen2001/Laky_Carcar/1.2-system-architecture
